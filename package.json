@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nthing2say/nodejs-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nthing2say/nodejs-rest/issues"
+  },
+  "homepage": "https://github.com/nthing2say/nodejs-rest#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
